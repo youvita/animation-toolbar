@@ -32,4 +32,4 @@ buttonDown.setOnClickListener(new View.OnClickListener() {
     }
 });
 
-
+https://user-images.githubusercontent.com/12288373/58850448-c5ac0400-86b8-11e9-9f0f-a556977a7dc8.gif
